@@ -1,0 +1,13 @@
+# 常用 CTP/SimNow Python 接口库
+# 注意：官方 CTP API 是 C++ 的，Python 通常使用封装库
+
+# 1. vn.py - 最流行的开源量化交易框架，内置 CTP 接口
+https://github.com/vnpy/vnpy.git
+
+# 2. openctp-ctp - CTP API 的 Python 封装
+openctp-ctp==6.7.2.*
+
+# 数据处理
+pandas
+numpy
+matplotlib
